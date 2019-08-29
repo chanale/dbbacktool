@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: fastjson-1.2.56.jar mysql-connector-java-5.1.47.jar
+Main-Class: DataMigration
+
